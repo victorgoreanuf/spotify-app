@@ -94,8 +94,8 @@ const checkUrlCode = async function () {
     const options = {
       method: "GET",
       headers: {
-        "X-RapidAPI-Key": "2791a69210msh828245406a5a19bp1409c4jsnbee680482aff",
-        "X-RapidAPI-Host": "youtube-mp36.p.rapidapi.com",
+        "X-RapidAPI-Key": "",
+        "X-RapidAPI-Host": "",
       },
     };
     const urlIdIDK = arrayTraks.map(async (el) => {
